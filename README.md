@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-sajid0123&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-sajid0123" /> </p>
 
-- 🌱 I’m currently learning **Data engineering**
+- 🌱 I’m currently in a learning curve **Data Domain**
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/Shaik-Sajid0123/Project_Upskill](https://github.com/Shaik-Sajid0123/Project_Upskill)
 
-- 💬 Ask me about **SQL, Cloud Computing, Analysis**
+- 💬 Ask me about **SQL, Data Analysis, Data Preprocessing, Engineering**
 
-- 📫 How to reach me **shaiksajid0123@gmail.com**
+- 📫 How to reach me **shaiksajid0123@gmail.com , sajidshaik15.96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
