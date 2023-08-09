@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-sajid0123&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-sajid0123" /> </p>
 
-- 🌱 I’m currently in a learning curve **Data Domain**
+- 🌱 I’m currently in a learning curve **-Data Domain**
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/Shaik-Sajid0123/Project_Upskill](https://github.com/Shaik-Sajid0123/Project_Upskill)
 
